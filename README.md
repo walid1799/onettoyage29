@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # onettoyage29
 =======
+=======
+>>>>>>> 5574e026d00a0ee25d32c5c5e4e7e6f87ac11c22
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -74,4 +77,7 @@ export default defineConfig([
   },
 ])
 ```
+<<<<<<< HEAD
 >>>>>>> 5574e02 (Initial commit)
+=======
+>>>>>>> 5574e026d00a0ee25d32c5c5e4e7e6f87ac11c22

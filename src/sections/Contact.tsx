@@ -12,7 +12,11 @@ export default function Contact() {
 
           <form
               className="contactForm"
+<<<<<<< HEAD
               action="https://formspree.io/f/xwvkpeqd"
+=======
+              action="https://formspree.io/f/xvzpewye"
+>>>>>>> 5574e026d00a0ee25d32c5c5e4e7e6f87ac11c22
               method="POST"
             >
               <label className="contactForm__label">
